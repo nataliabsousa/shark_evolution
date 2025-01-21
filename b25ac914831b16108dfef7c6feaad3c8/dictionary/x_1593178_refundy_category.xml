@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f5cc1d4831b16108dfef7c6feaad3fc" label="Category" max_length="40" name="x_1593178_refundy_category" type="collection">
+        <element label="Group" max_length="500" name="group" reference="sys_user_group" reference_qual="parent=1316a194839b16108dfef7c6feaad339^EQ" reference_qual_condition="parent=1316a194839b16108dfef7c6feaad339^EQ" type="reference"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>
