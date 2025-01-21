@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Categories">7658c764835796108dfef7c6feaad305</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1593178_refundy_category</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 17:56:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2798c364835796108dfef7c6feaad327</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_update_name>sys_app_module_2798c364835796108dfef7c6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:01:17</sys_updated_on>
+        <timeline_page/>
+        <title>New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</application>
+        <file_path/>
+        <instance_id>daf0afdcdbda395892f5684e1396195c</instance_id>
+        <instance_name>dev199370</instance_name>
+        <name>sys_app_module_2798c364835796108dfef7c6feaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Categories">7658c764835796108dfef7c6feaad305</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1593178_refundy_category</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 17:56:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2798c364835796108dfef7c6feaad327</sys_id><sys_mod_count>3</sys_mod_count><sys_name>New</sys_name><sys_overrides/><sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package><sys_policy/><sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope><sys_update_name>sys_app_module_2798c364835796108dfef7c6feaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 18:01:17</sys_updated_on><timeline_page/><title>New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2053135443</payload_hash>
+        <record_name>New</record_name>
+        <reverted_from/>
+        <source>2e4b855083d716108dfef7c6feaad36e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 18:01:17</sys_created_on>
+        <sys_id>27b9cbe4835796108dfef7c6feaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948a069f680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:01:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>abb9cbe495579610299788fc5ca6ad84</update_guid>
+        <update_guid_history>abb9cbe495579610299788fc5ca6ad84:2053135443,2269cfa43457961087e37699457c8a4a:1706484167,eed847a423579610b193142894027b8a:2053135443,dcb803a4a757961001f65a2d2f41edc2:809898220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New">a5dc5fac839796108dfef7c6feaad342</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 19:24:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1b12f40cc13047128585a5e7376ad079</sys_id>
+        <sys_metadata>2798c364835796108dfef7c6feaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_scope_delete display_value="">092bf01df2134266ab093dd0c0548244</sys_scope_delete>
+        <sys_update_name>sys_app_module_2798c364835796108dfef7c6feaad327</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2798c364835796108dfef7c6feaad327">27b9cbe4835796108dfef7c6feaad385</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 19:24:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

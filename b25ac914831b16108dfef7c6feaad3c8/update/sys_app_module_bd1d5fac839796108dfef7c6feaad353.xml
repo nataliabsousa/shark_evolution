@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Refund Menu">4317c324835796108dfef7c6feaad362</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All Categories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1593178_refundy_category</name>
+        <order>230</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 19:26:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd1d5fac839796108dfef7c6feaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Categories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_update_name>sys_app_module_bd1d5fac839796108dfef7c6feaad353</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 19:26:13</sys_updated_on>
+        <timeline_page/>
+        <title>All Categories</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

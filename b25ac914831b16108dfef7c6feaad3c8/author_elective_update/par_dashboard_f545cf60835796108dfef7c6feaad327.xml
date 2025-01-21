@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <certified>false</certified>
+        <description>Relatório de reembolsos que não foi realizado análise (pendentes de aprovação/reprovação)</description>
+        <experience/>
+        <grid>48</grid>
+        <name>Pending Refunds</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 17:41:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f545cf60835796108dfef7c6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending Refunds</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_update_name>par_dashboard_f545cf60835796108dfef7c6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 17:41:46</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</application>
+        <file_path/>
+        <instance_id>daf0afdcdbda395892f5684e1396195c</instance_id>
+        <instance_name>dev199370</instance_name>
+        <name>par_dashboard_f545cf60835796108dfef7c6feaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description>Relatório de reembolsos que não foi realizado análise (pendentes de aprovação/reprovação)</description><experience/><grid>48</grid><name>Pending Refunds</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 17:41:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f545cf60835796108dfef7c6feaad327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pending Refunds</sys_name><sys_overrides/><sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package><sys_policy/><sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope><sys_update_name>par_dashboard_f545cf60835796108dfef7c6feaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 17:41:46</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>-1582591873</payload_hash>
+        <record_name>Pending Refunds</record_name>
+        <reverted_from/>
+        <source>2e4b855083d716108dfef7c6feaad36e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 17:41:46</sys_created_on>
+        <sys_id>7945cf60835796108dfef7c6feaad32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19489f4c2ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 17:41:46</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>3d45cf6038579610464fe9a1d992d829</update_guid>
+        <update_guid_history>3d45cf6038579610464fe9a1d992d829:-1582591873</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pending Refunds">810097ec835796108dfef7c6feaad361</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 18:28:42</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>331e3482ed01495e8ddd17a505d108f1</sys_id>
+        <sys_metadata>f545cf60835796108dfef7c6feaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending Refunds</sys_name>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_scope_delete display_value="">092bf01df2134266ab093dd0c0548244</sys_scope_delete>
+        <sys_update_name>par_dashboard_f545cf60835796108dfef7c6feaad327</sys_update_name>
+        <sys_update_version display_value="par_dashboard_f545cf60835796108dfef7c6feaad327">7945cf60835796108dfef7c6feaad32a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:28:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

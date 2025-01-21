@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="Pending Refunds">f545cf60835796108dfef7c6feaad327</dashboard>
+        <name>New Tab 1</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 17:41:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd45cf60835796108dfef7c6feaad338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_update_name>par_dashboard_tab_bd45cf60835796108dfef7c6feaad338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 17:41:46</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</application>
+        <file_path/>
+        <instance_id>daf0afdcdbda395892f5684e1396195c</instance_id>
+        <instance_name>dev199370</instance_name>
+        <name>par_dashboard_tab_bd45cf60835796108dfef7c6feaad338</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="Pending Refunds">f545cf60835796108dfef7c6feaad327</dashboard><name>New Tab 1</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 17:41:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bd45cf60835796108dfef7c6feaad338</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 1</sys_name><sys_overrides/><sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package><sys_policy/><sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope><sys_update_name>par_dashboard_tab_bd45cf60835796108dfef7c6feaad338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 17:41:46</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-893889440</payload_hash>
+        <record_name>New Tab 1</record_name>
+        <reverted_from/>
+        <source>2e4b855083d716108dfef7c6feaad36e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 17:41:47</sys_created_on>
+        <sys_id>3945cf60835796108dfef7c6feaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19489f4c3c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 17:41:47</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>f945cf6054579610dd0c9e7e96c93c3a</update_guid>
+        <update_guid_history>f945cf6054579610dd0c9e7e96c93c3a:-893889440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Tab 1">5d0097ec835796108dfef7c6feaad38a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 18:28:42</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>a923d0ea37944ecb9ff14234397df181</sys_id>
+        <sys_metadata>bd45cf60835796108dfef7c6feaad338</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="Refund" source="x_1593178_refundy">b25ac914831b16108dfef7c6feaad3c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Refund">b25ac914831b16108dfef7c6feaad3c8</sys_scope>
+        <sys_scope_delete display_value="">092bf01df2134266ab093dd0c0548244</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_bd45cf60835796108dfef7c6feaad338</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_bd45cf60835796108dfef7c6feaad338">3945cf60835796108dfef7c6feaad33b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:28:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
